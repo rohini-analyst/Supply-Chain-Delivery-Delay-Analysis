@@ -137,12 +137,39 @@ Analyzed delivery delay trends by:
 
 This project includes visualizations such as:
 
-- Profitability Distribution
-- Delay Distribution
-- Profit vs Delivery Delay
-- Bottleneck Detection Dashboard
-- Root Cause Analysis
-- Time-Based Delay Analysis
+### Profitability Distribution
+
+![Profitability Distribution](images/profitability_distribution.png)
+
+---
+
+### Delay Distribution
+
+![Delay Distribution](images/delay_distribution.png)
+
+---
+
+### Profit vs Delivery Delay
+
+![Profit vs Delivery Delay](images/profit_vs_delay.png)
+
+---
+
+### Bottleneck Detection
+
+![Bottleneck Detection](images/bottleneck_analysis.png)
+
+---
+
+### Root Cause Analysis
+
+![Root Cause Analysis](images/root_cause_analysis.png)
+
+---
+
+### Time-Based Delay Analysis
+
+![Time-Based Delay Analysis](images/time_based_analysis.png)
 
 ---
 
