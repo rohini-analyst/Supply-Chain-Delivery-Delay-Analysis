@@ -27,7 +27,7 @@ The goal is to answer one key business question:
 
 ## 📂 Dataset
 
-This project uses the **DataCo Smart Supply Chain Dataset** available on Kaggle.
+This project uses the [DataCo Smart Supply Chain Dataset](https://www.kaggle.com/code/binayakbishnu/datacosupplychaindataset/notebook) available on Kaggle.
 
 > **Note:** The dataset is not included in this repository due to licensing restrictions.
 
