@@ -139,37 +139,37 @@ This project includes visualizations such as:
 
 ### Profitability Distribution
 
-![Profitability Distribution](images/profitability_distribution.png)
+![Profitability Distribution](Images/profitability_distribution.png)
 
 ---
 
 ### Delay Distribution
 
-![Delay Distribution](images/delay_distribution.png)
+![Delay Distribution](Images/delay_distribution.png)
 
 ---
 
 ### Profit vs Delivery Delay
 
-![Profit vs Delivery Delay](images/profit_vs_delay.png)
+![Profit vs Delivery Delay](Images/profit_vs_delay.png)
 
 ---
 
 ### Bottleneck Detection
 
-![Bottleneck Detection](images/bottleneck_analysis.png)
+![Bottleneck Detection](Images/bottleneck_analysis.png)
 
 ---
 
 ### Root Cause Analysis
 
-![Root Cause Analysis](images/root_cause_analysis.png)
+![Root Cause Analysis](Images/root_cause_analysis.png)
 
 ---
 
 ### Time-Based Delay Analysis
 
-![Time-Based Delay Analysis](images/time_based_analysis.png)
+![Time-Based Delay Analysis](Images/time_based_analysis.png)
 
 ---
 
