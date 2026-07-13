@@ -22,7 +22,7 @@ The goal is to answer one key business question:
 - Discover the major drivers behind delayed shipments.
 - Analyze delay patterns across different time periods.
 - Provide data-driven recommendations for improving supply chain performance.
-
+- Identify the impact of delivery delayson profitability.
 ---
 
 ## 📂 Dataset
