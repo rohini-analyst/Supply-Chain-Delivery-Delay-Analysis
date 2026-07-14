@@ -22,7 +22,7 @@ The goal is to answer one key business question:
 - Discover the major drivers behind delayed shipments.
 - Analyze delay patterns across different time periods.
 - Provide data-driven recommendations for improving supply chain performance.
-- Identify the impact of delivery delayson profitability.
+  
 ---
 
 ## 📂 Dataset
@@ -196,7 +196,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into act
 
 I'm currently building real-world data projects while continuously improving my skills in Python, SQL, Excel, and Power BI.
 
-Feel free to connect with me on LinkedIn](www.linkedin.com/in/rohinii-wagh)!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/rohinii-wagh)!
 
 ---
 
